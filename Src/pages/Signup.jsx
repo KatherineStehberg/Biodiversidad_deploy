@@ -34,7 +34,7 @@ const SignUp = () => {
     <div className="container">
       <section className="signup-form">
         <h2>Regístrate</h2>
-        <p className="subtext">Empieza tu prueba gratuita de 30 días</p>
+        <p className="subtext">Empieza tu prueba gratuita de 30 días hoy</p>
 
         {/* Registration Message */}
         {message && <div className="alert alert-info">{message}</div>}
